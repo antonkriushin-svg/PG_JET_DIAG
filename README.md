@@ -1,4 +1,4 @@
-# PG Jet Diag
+# PG_JET_DIAG
 
 Локальный инструмент диагностики PostgreSQL с GUI, режимами DB/LLM и сбором метрик.
 
