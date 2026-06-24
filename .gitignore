@@ -1,0 +1,13 @@
+# Local secrets
+.env
+db_config.json
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Local runtime artifacts
+*.log
+*.sqlite3
+*.csv
